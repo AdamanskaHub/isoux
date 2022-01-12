@@ -85,4 +85,119 @@
     text-decoration: underline;
   }
 
+  :global(body) {
+  font-family: 'Poppins', 'Roboto', Arial, Helvetica, sans-serif !important;
+  color: #333 !important;
+
+}
+
+:global(:root) {
+  --red: #d33a2c;
+  --darkbg: #051626;
+  --accent: #2FB9A3;
+}
+/* var(--blue) */
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateX(-15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+:global(.accordion-show) {
+  display: block;
+  animation: reveal .5s
+}
+
+:global(svg) { transition: transform 0.2s ease-in;
+	}
+:global([aria-expanded=true] svg) { transform: rotate(0.25turn); }
+
+
+
+:global(h2.big-title){
+  font-size:48px;
+  font-weight: bold;
+}
+
+:global(h4.title){
+  font-size: 28px;
+  font-weight: bold;
+}
+:global(h4.title>span){
+  font-size: 18px;
+  font-weight: normal;
+  opacity: .5;
+}
+
+:global(.method, .figmalink){
+  text-decoration: underline;
+  color: var(--accent);
+}
+
+:global(.figmaimg){
+  height: 24rem;
+  margin: 24px auto;
+  border: 1px #ddd solid;
+}
+
+/* .participants{
+  display: flex;
+  flex-wrap: wrap;
+} */
+:global(.participants li) {
+  margin-right: 1rem;
+  white-space: nowrap;
+}
+
+:global(.question){
+  font-size: 20px;
+}
+
+:global(h5.sub-title){
+  font-size: 20px;
+  
+}
+
+
+:global(.ideas li) {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6rem;
+}
+:global(.ideas div){
+  max-width: 28rem;
+}
+
+:global(.illu){
+  width: 10rem !important;
+  max-height: 10rem !important;
+  margin-right: 1rem;
+}
+
+:global(.mini-title){
+  text-transform: uppercase;
+  margin: .5rem 0;
+  font-size: 18px;
+  color: var(--red)
+}
+
+:global(.ideas>li>div>p:nth-child(2)) {
+  font-style: italic;
+}
+
+:global(.other-ideas li) {
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+:global(.other-ideas) {
+  margin-bottom: 4rem;
+}
+
+
 </style>
