@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev --port 3400",
-    "build": "svelte-kit build --port 3400",
+    "build": "svelte-kit build",
     "package": "svelte-kit package",
     "preview": "svelte-kit preview",
     "lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. .",
