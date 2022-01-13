@@ -30,7 +30,7 @@ let opened = ""
 
 <h5 class="question font-bold">How might we get random users to know (in a positive way) ISO via the website</h5>
 <a href="https://www.figma.com/file/Cw4clpHmU7KxbusO6BW03S/Promo-brainstorm-batch-2---10%2F01?node-id=16%3A41" class="figmalink">Figma link
-<img src="../../static/images/new2.png" alt="figma file" class="figmaimg" /></a>
+<img src=".//new2.png" alt="figma file" class="figmaimg" /></a>
 
 <h5 class="sub-title mt-12 mb-4" > Most popular ideas</h5>
 

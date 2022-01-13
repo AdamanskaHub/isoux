@@ -30,7 +30,7 @@ let opened=''
 <h5 class="question font-bold mb-2 mt-12">Second test: a mockup done for the test</h5>
 
 
-  <img src="../../static/images/5stest.png" alt="figma mockup" class="figmaimg m-0" />
+  <img src=".//5stest.png" alt="figma mockup" class="figmaimg m-0" />
 <ul class="mt-2">
   <li>Most thought it had to do with construction 🤦‍♀️</li>
   <li>The response to the design was more positive</li>
@@ -41,7 +41,7 @@ let opened=''
 <h5 class="question font-bold mb-2 mt-12">Learnings</h5>
 
 <p class="mt-2">This definitely shows that there is room for improvement and that the photos on the main page of the website are critical to people's understanding of what ISO is.</p>
-<img src="../../static/images/ux-learnings-1.png" alt="ux learnings" class="figmaimg" />
+<img src=".//ux-learnings-1.png" alt="ux learnings" class="figmaimg" />
 
 
 

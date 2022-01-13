@@ -31,7 +31,7 @@ let opened = ""
 <h5 class="question font-bold">How might we create the best ISO site for experts/members ?
 What do the experts/members need to have the best experience?</h5>
 <a href="https://www.figma.com/file/IFVAJaVBo7wCT0Q8dHpGOU/Experts-brainstorm---10%2F01?node-id=1%3A2" class="figmalink">Figma link
-<img src="../../static/images/expert1.png" alt="figma file" class="figmaimg" /></a>
+<img src=".//expert1.png" alt="figma file" class="figmaimg" /></a>
 <p>The participants were imagining a website that is designed specifically for users that are very familiar with standards.</p>
 
 <h5 class="sub-title mt-12 mb-4" > Most popular ideas</h5>
