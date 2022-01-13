@@ -28,7 +28,7 @@ let opened = ""
 
 <h5 class="question font-bold">How might we get random users to the ISO promo website?</h5>
 <a href="https://www.figma.com/file/CL4YAPbhbXXMzFz0sx47bS/Newcomers-Edition---23%2F12?node-id=1%3A2" class="figmalink">Figma link
-<img src="./static/images/promo.png" alt="figma file" class="figmaimg" /></a>
+<img src="./promo.png" alt="figma file" class="figmaimg" /></a>
 <p>The participants were thinking about an imaginary website/page that is designed specifically for first time users. How do we bring 5000 new users to that website?</p>
 
 <h5 class="sub-title mt-12 mb-4" > Most popular ideas</h5>
