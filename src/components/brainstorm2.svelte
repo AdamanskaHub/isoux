@@ -16,14 +16,14 @@ let opened = ""
 <div class="flex mb-6">
 <p class="opacity-50 mr-4">Participants</p>
 <ul class="participants mb-4">
-  <li>INFANTE Catherine</li>
-  <li>ROLANDO Mara</li>
-  <li>DAUCH Stephanie</li>
-  <li>LEWIS Barnaby</li>
-  <li>PRINCIPI Luigi</li>
-  <li>EGGER Lionel</li>
-  <li>GOURMANEL Emilie</li>
-  <li>ROESSLI David</li>
+  <li>Catherine</li>
+  <li>Mara</li>
+  <li>Stephanie</li>
+  <li>Barnaby</li>
+  <li>Luigi</li>
+  <li>Lionel</li>
+  <li>Emilie</li>
+  <li>David</li>
 </ul>
 </div>
 
@@ -78,5 +78,5 @@ let opened = ""
   <li>"only 1 way to get to the information, not multiple places where to click to end up in the same place"</li>
 </ul>
 <p class="opacity-50">Special note</p>
-<p>While both groups of "attracting new users" brainstorm session has different ideas, the fact that the website is currently not engaging and geared towards users who already know standards well came back.</p>
+<p class="mb-6">While both groups of "attracting new users" brainstorm session has different ideas, the fact that the website is currently not engaging and geared towards users who already know standards well came back.</p>
 </div>

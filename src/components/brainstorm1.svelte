@@ -21,13 +21,13 @@
 <div class="flex mb-6">
 <p class="opacity-50 mr-4">Participants</p>
 <ul class="participants mb-4">
-  <li>GERASYMCHUK Yuliya</li>
-  <li>LAZARTE Maria</li>
-  <li>THOMAS Tharun</li>
-  <li>VON DER MUHLL Vanessa</li>
-  <li>PRINCIPI Luigi</li>
-  <li>EGGER Lionel</li>
-  <li>GOURMANEL Emilie</li>
+  <li>Yuliya</li>
+  <li>Maria</li>
+  <li>Tharun</li>
+  <li>Vanessa</li>
+  <li>Luigi</li>
+  <li>Lionel</li>
+  <li>Emilie</li>
 </ul>
 </div>
 

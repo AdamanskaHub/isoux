@@ -15,13 +15,13 @@ let opened = ""
 <div class="flex mb-6">
 <p class="opacity-50 mr-4">Participants</p>
 <ul class="participants mb-4">
-  <li>ROMANO Thalita</li>
-  <li>AKBAR Ashraf</li>
-  <li>THOMAS Tharun</li>
-  <li>MUELLER Stefanie</li>
-  <li>PRINCIPI Luigi</li>
-  <li>EGGER Lionel</li>
-  <li>GOURMANEL Emilie</li>
+  <li>Thalita</li>
+  <li>Ashraf</li>
+  <li>Tharun</li>
+  <li>Stefanie</li>
+  <li>Luigi</li>
+  <li>Lionel</li>
+  <li>Emilie</li>
 </ul>
 </div>
 
@@ -78,5 +78,5 @@ let opened = ""
 </ul>
 
 <p class="opacity-50">Special note</p>
-<p>The participants came up with many modern ways to atttract users.</p>
+<p class="mb-6">The participants came up with many modern ways to atttract users.</p>
 </div>

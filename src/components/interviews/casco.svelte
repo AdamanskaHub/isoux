@@ -39,7 +39,7 @@ let opened=''
 
 <p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> she looks for something special on iso.org, a document for example, she searches, her results are news, she clicks a news, looks in it for the link to what she was actually looking for. Doesn't care much about the news, lots of extra clicking.</p>
 
-<h5 class="question font-bold mb-2 mt-8">Cristian Vasquez</h5>
+<h5 class="question font-bold mb-2 mt-8">Cristian</h5>
 
 <p class="opacity-50 mb-1">Goes to both the CASCO website, the portal and iso.org</p>
 <ul class="ml-8">
@@ -51,7 +51,26 @@ let opened=''
   <li>He wishes there was an entry point with all the links</li>
 </ul>
 
-<p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> He is looking for a particular that he has seen previously. iso.org > taking part > other > Casco. He can't find it anymore and spends 10min clicking around on all the available links on the casco page (on iso.org). </p>
+<p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> He is looking for a particular document that he has seen previously. iso.org > taking part > other > Casco. He can't find it anymore and spends 10min clicking around on all the available links on the casco page (on iso.org). </p>
+
+<!-- AAINAA -->
+
+<h5 class="question font-bold mb-2 mt-8">Aainaa</h5>
+
+<p class="opacity-50 mb-1">Goes mostly to iso.org</p>
+<ul class="ml-8">
+  <li>Gets information and shares it</li>
+  <li>Needs to know about certain TC statuses</li>
+  <li>Never starts on the homepage but gets the link from google search</li>
+  <li>Confused by the navigation</li>
+  <li>Very used to the structure</li>
+  <li>Struggles to find certain articles</li>
+  <li>Often opens multiple tabs because she doesn't know where the info is</li>
+  <li>Happens to find her info in the store section of the website (awkward)</li>
+  <li>Wants one page to find everything</li>
+</ul>
+
+<p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span>She is looking for the status of a TC. She will type "ISO/TC27001" in google. She'll see two iso links and open both in different pages. Then she proceed to scroll them until she sees the status green block that she recognizes.</p>
 
 
 

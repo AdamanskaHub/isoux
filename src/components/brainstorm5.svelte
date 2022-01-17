@@ -16,14 +16,14 @@ let opened = ""
 <div class="flex mb-6">
 <p class="opacity-50 mr-4">Participants</p>
 <ul class="participants mb-4">
-  <li>ROESSLI David</li>
-  <li>ALCORTA Jose</li>
-  <li>PIERLOT Victoria</li>
-  <li>INFANTE Catherine</li>
-  <li>THOMAS Tharun</li>
-  <li>PRINCIPI Luigi</li>
-  <li>EGGER Lionel</li>
-  <li>GOURMANEL Emilie</li>
+  <li>David</li>
+  <li>Jose</li>
+  <li>Victoria</li>
+  <li>Catherine</li>
+  <li>Tharun</li>
+  <li>Luigi</li>
+  <li>Lionel</li>
+  <li>Emilie</li>
 </ul>
 </div>
 
@@ -80,5 +80,5 @@ What do the experts/members need to have the best experience?</h5>
 </ul>
 
 <p class="opacity-50">Special note</p>
-<p>Many ideas were the same as the previous group, such as a community, a better search, a single sign on, sending a strong signal.</p>
+<p class="mb-6">Many ideas were the same as the previous group, such as a community, a better search, a single sign on, sending a strong signal.</p>
 </div>
