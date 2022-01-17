@@ -39,6 +39,20 @@ let opened=''
 
 <p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> she looks for something special on iso.org, a document for example, she searches, her results are news, she clicks a news, looks in it for the link to what she was actually looking for. Doesn't care much about the news, lots of extra clicking.</p>
 
+<h5 class="question font-bold mb-2 mt-8">Cristian Vasquez</h5>
+
+<p class="opacity-50 mb-1">Goes to both the CASCO website, the portal and iso.org</p>
+<ul class="ml-8">
+  <li>Gets information and shares it</li>
+  <li>Likes the quality of the docs he finds</li>
+  <li>Gets lost often</li>
+  <li>Find Casco.iso very useful</li>
+  <li>When scanning a page his eyes jump from links to links</li>
+  <li>He wishes there was an entry point with all the links</li>
+</ul>
+
+<p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> He is looking for a particular that he has seen previously. iso.org > taking part > other > Casco. He can't find it anymore and spends 10min clicking around on all the available links on the casco page (on iso.org). </p>
+
 
 
 
