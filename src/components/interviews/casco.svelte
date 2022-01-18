@@ -1,5 +1,5 @@
 <script>
-import Carret from "../../../static/carret.svelte"
+import Carret from "../../.., is_crossorigin, intros/static/carret.svelte"
 let opened=''
 
 </script>
@@ -16,6 +16,7 @@ let opened=''
   Interviews with CASCO website and CASCO section of iso.org to see what could be improved currently in their flow.
   </p>
 
+<!-- NORA -->
 
 <h5 class="question font-bold mb-2">Nora</h5>
 
@@ -38,6 +39,8 @@ let opened=''
 </ul>
 
 <p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> she looks for something special on iso.org, a document for example, she searches, her results are news, she clicks a news, looks in it for the link to what she was actually looking for. Doesn't care much about the news, lots of extra clicking.</p>
+
+<!-- CHRISTIAN -->
 
 <h5 class="question font-bold mb-2 mt-8">Cristian</h5>
 
@@ -73,6 +76,30 @@ let opened=''
 <p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span>She is looking for the status of a TC. She will type "ISO/TC27001" in google. She'll see two iso links and open both in different pages. Then she proceed to scroll them until she sees the status green block that she recognizes.</p>
 
 
+<!-- Sandra -->
+<div class="mt-8 mb-8">
+  <h5 class="question font-bold mb-2 ">Sandra</h5>
+
+  <p class="opacity-50 mb-1">Mostly uses iso docs for everything Casco, but also .org and didn't know about Casco.org</p>
+  <ul class="ml-8">
+    <li>Gathers information and shares it most days</li>
+    <li>Needs to know about certain TC statuses</li>
+    <li>Goes to .org by typing "iso casco" in google and the first link goes to iso.org/comittee/54998</li>
+    <li>Will read the articles on .org to keep herself up to date</li>
+    <li>Likes the informations found on iso.org/comittee/54998</li>
+    <li>Struggles to find certain articles</li>
+    <li>Wishes everything was in the same place</li>
+  </ul>
+
+  <p class="mt-2"><span class="font-bold">Problem flow:</span>She gets an email notification about a new casco document. She clicks the link after quickly scanning the email and lands on isodocs. There she might download the doc after reading it.</p>
+
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>A dowload button where she lands from the Notification. </li>
+    <li>A way to easily navigate between docs/ballots etc</li>
+  </ul>
+
+</div>
 
 
 
