@@ -1,8 +1,9 @@
 <script>
-import Carret from "../../.., is_crossorigin, intros/static/carret.svelte"
+import Carret from "../../../static/carret.svelte"
 let opened=''
-
 </script>
+
+
 <button class=" flex items-center"
 	on:click="{() => opened==='casco'? opened=false : opened = 'casco'}" aria-expanded={opened==='casco'} >
   <Carret />
