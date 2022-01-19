@@ -88,6 +88,7 @@ let opened=''
     <li>Goes to .org by typing "iso casco" in google and the first link goes to iso.org/comittee/54998</li>
     <li>Will read the articles on .org to keep herself up to date</li>
     <li>Likes the informations found on iso.org/comittee/54998</li>
+    <li>Reacts to notifications</li>
     <li>Struggles to find certain articles</li>
     <li>Wishes everything was in the same place</li>
   </ul>
@@ -102,6 +103,55 @@ let opened=''
 
 </div>
 
+
+<!-- ELAINE -->
+<div class="mt-8 mb-8">
+  <h5 class="question font-bold mb-2 ">Elaine</h5>
+
+  <p class="opacity-50 mb-1">Uses iso docs and .org almost daily and rarely Casco.org</p>
+  <ul class="ml-8">
+    <li>Gathers information and shares it most days</li>
+    <li>Needs to know about certain TC statuses</li>
+    <li>Goes to .org by typing "iso" in google and then uses iso's search to look for "iso668"</li>
+    <li>Reacts to notifications</li>
+    <li>Finds presentations in isodocs but wish they were all grouped</li>
+    <li>Wishes she could favourite some docs she goes back to all the time</li>
+    <li>Wants to know what's the latest version of a standard</li>
+  </ul>
+
+  <p class="mt-2"><span class="font-bold">Problem flow: </span>She gets an email notification about a new casco document. She clicks the link after quickly. She needs to login (everyday). She then sees the (uselessly long) document in which the only word that matters is "published". She will download it and share it to her experts, practitionners, employees of certified bodies.</p>
+
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>A dowload button where she lands from the Notification. </li>
+    <li>A way to easily navigate between docs/ballots etc</li>
+    <li>A way to see the statuses with ease</li>
+    <li>Favorites for docs</li>
+  </ul>
+
+</div>
+
+
+<!-- MAHEYA -->
+<div class="mt-8 mb-8">
+  <h5 class="question font-bold mb-2 ">Maheya</h5>
+
+  <p class="opacity-50 mb-1">Uses iso docs very often and .org often</p>
+  <ul class="ml-8">
+    <li>Gathers information and shares it most days</li>
+    <li>Needs to know about certain TC statuses</li>
+    <li>Goes to .org by typing "iso" in google</li>
+    <li>Reacts to notifications</li>
+  </ul>
+
+  <p class="mt-2"><span class="font-bold">Problem flow: </span>None</p>
+
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>No quick win really</li>
+  </ul>
+
+</div>
 
 
 
