@@ -17,6 +17,19 @@ let opened=''
   Interviews with CASCO website and CASCO section of iso.org to see what could be improved currently in their flow.
   </p>
 
+  <!-- SOLUTIONS -->
+  <div class="mt-8 mb-8">
+    <h5 class="question font-bold mb-2">UX fixes</h5>
+    <ul class="ml-8">
+      <li>Fav system in iso docs</li>
+      <li>Infos currently found in the store not in the store (it's just weird)</li>
+      <li>The casco part of iso.org could have all the links in a more optimised and grouped way</li>
+      <li>More grouping of informations, less text more clear stuff</li>
+      <li>Better advanced search in isodocs</li>
+    </ul>
+  </div>
+  
+
 <!-- NORA -->
 
 <h5 class="question font-bold mb-2">Nora</h5>
@@ -55,7 +68,7 @@ let opened=''
   <li>He wishes there was an entry point with all the links</li>
 </ul>
 
-<p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> He is looking for a particular document that he has seen previously. iso.org > taking part > other > Casco. He can't find it anymore and spends 10min clicking around on all the available links on the casco page (on iso.org). </p>
+<p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>He is looking for a particular document that he has seen previously. iso.org > taking part > other > Casco. He can't find it anymore and spends 10min clicking around on all the available links on the casco page (on iso.org). </p>
 
 <!-- AAINAA -->
 
@@ -149,6 +162,28 @@ let opened=''
   <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
   <ul>
     <li>No quick win really</li>
+  </ul>
+
+</div>
+
+<!-- MAHEYA -->
+<div class="mt-8 mb-8">
+  <h5 class="question font-bold mb-2 ">German</h5>
+
+  <p class="opacity-50 mb-1">Uses iso docs very often and .org often</p>
+  <ul class="ml-8">
+    <li>Gathers information and shares it most days</li>
+    <li>Needs to know about certain TC statuses</li>
+    <li>Goes to .org by using favorites</li>
+    <li>Reacts to notifications</li>
+    <li>When in the news section immediately scrolls to the bottom where the subject groups are</li>
+  </ul>
+
+  <p class="mt-2"><span class="font-bold">Problem flow: </span>He's looking for a date => Click on his favorite "iso", goes to standards, then uses the search catalogue "17034", knows to click the first link, looks at the date, like to look at the abstract too and scopes and goals.</p>
+
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>Favorites in iso docs as he spent a lot of time trying to find something for me and just couldn't.</li>
   </ul>
 
 </div>
