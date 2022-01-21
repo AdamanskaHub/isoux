@@ -1,5 +1,4 @@
 <script>
-import { attribute_to_object } from "svelte/internal";
 import Carret from "../../../static/carret.svelte"
 let opened=''
 
@@ -7,7 +6,7 @@ let opened=''
 <button class=" flex items-center"
 	on:click="{() => opened==='fivesec'? opened=false : opened = 'fivesec'}" aria-expanded={opened==='fivesec'} >
   <Carret />
-  <h4 class="title">5sec test<span>(12/21)</span></h4> 
+  <h4 class="title">5sec test<span> (12/21)</span></h4> 
 </button>
 
 <div class="{opened==='fivesec'? 'accordion-show':'hidden'}">
