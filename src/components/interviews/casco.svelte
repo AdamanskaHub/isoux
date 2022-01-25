@@ -1,5 +1,5 @@
 <script>
-import Carret from "../../../static/carret.svelte"
+import Carret from "../../.., is_crossorigin/static/carret.svelte"
 let opened=''
 </script>
 
@@ -26,6 +26,7 @@ let opened=''
       <li>The casco part of iso.org could have all the links in a more optimised and grouped way</li>
       <li>More grouping of informations, less text more clear stuff</li>
       <li>Better advanced search in isodocs</li>
+      <li>Permissions in iso solutions to not need the mirror</li>
     </ul>
   </div>
   
@@ -184,6 +185,33 @@ let opened=''
   <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
   <ul>
     <li>Favorites in iso docs as he spent a lot of time trying to find something for me and just couldn't.</li>
+  </ul>
+
+</div>
+
+
+<!-- KAREN -->
+<div class="mt-8 mb-8">
+  <h5 class="question font-bold mb-2 ">Karen</h5>
+
+  <p class="opacity-50 mb-1">Uses iso docs and .org almost daily. Rarely iso.Casco.org</p>
+  <ul class="ml-8">
+    <li>Gathers information and shares it most days</li>
+    <li>Needs to know about certain TC statuses</li>
+    <li>Goes to .org by typing the end address in her search bar</li>
+    <li>Reacts to notifications</li>
+    <li>Doesn't even try to navigate in iso.org</li>
+    <li>Like the tutorial like documents of iso and wants videos too</li>
+    <li>Would like to easily access the member area (basically she wants to be log onto .org and see more things)</li>
+    <li>Prefers to check links with other people (who might not have logins)</li>
+    <li>Regularly wants to compare her country to other countries</li>
+  </ul>
+
+  <p class="mt-2"><span class="font-bold">Problem flow: </span>She's looking for a standard's status => types is_crossorigin.org/technical-comittees, then ctl+f and types the number of what she's looking for. She clicks on it. She can see the lifecycle and gets the information she needs. (She doesn't use the search and doesn't end up on the store).</p>
+
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>Nothing quick</li>
   </ul>
 
 </div>
