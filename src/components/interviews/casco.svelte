@@ -213,7 +213,30 @@ let opened=''
   <ul>
     <li>Nothing quick</li>
   </ul>
+</div>
 
+<!-- KRISTEN -->
+<div class="mt-8 mb-8">
+  <h5 class="question font-bold mb-2 ">Kristen</h5>
+
+  <p class="opacity-50 mb-1">Uses iso docs and the global directory almost daily and .org weekly.</p>
+  <ul class="ml-8">
+    <li>Gathers information and shares it most days</li>
+    <li>Needs to know about certain TC statuses</li>
+    <li>Reacts to notifications</li>
+    <li>Uses bookmarks</li>
+    <li>Likes the presentations available</li>
+    <li>Transfers docs to the mirror</li>
+    <li>Sends links to other people</li>
+    <li>Uses ctrl f</li>
+  </ul>
+
+  <p class="mt-2"><span class="font-bold">Problem flow: </span>She's looking for a document => clicks a bookmark, she gets lost on .org and starts clicking AudioBufferSourceNode. She's looking for a link to the casco toolbox. She eventually finds it and navigates in the casco toolbox antique looking website</p>
+
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>Renaming of the different links might help her</li>
+  </ul>
 </div>
 
 
