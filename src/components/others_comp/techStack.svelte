@@ -6,14 +6,14 @@ let opened=''
 <button class=" flex items-center"
 	on:click="{() => opened==='techstack'? opened=false : opened = 'techstack'}" aria-expanded={opened==='techstack'} >
   <Carret />
-  <h4 class="title">Tech stack considerations<span> (01/22)</span></h4> 
+  <h4 class="title">Tech stack considerations <span> (01/22)</span></h4> 
 </button>
 
 <div class="{opened==='techstack'? 'accordion-show':'hidden'}">
 
 
   <p class="opacity-50 mr-4 mb-8">
-  Currently iso.org runs on a stack of coupled jahia and java. Jahia is running an old version of itself. Modifications are painful and dangerous to do.
+  Currently iso.org runs on a stack of coupled jahia and java. Jahia is running an old version of itself. Modifications are painful and dangerous to do. It creates an anti-agile mindset.
   </p>
 
 
@@ -53,12 +53,18 @@ let opened=''
   <li>Possibility to develop thinking components first (as it's done now)</li>
   <li>More possibility to animate</li>
   <li>More control about responsiveness</li>
+  <li>A change in mentality as the whole way to approach the web is redefine</li>
+  <li>Actually agile</li>
+  <li>Possibilities to use available libraries</li>
+  <li>Exciting project</li>
+  <li>Engaged team in control</li>
 </ul>
 
 <ul class="mb-2">
   <li>CONS</li>
-  <li>Less flexibility for the editors (rigidity which I -Emilie- think is a good thing</li>
+  <li>Less flexibility for the editors (rigidity which I -Emilie- think is a good thing)</li>
   <li>It means a LOT of work basically from scratch to get it working (but the alternative is each task everyday is a lot of work)</li>
+  <li>IT might not be keen on the whole API creation</li>
 </ul>
 
 <p><span class="font-bold">Emilie -> A Decoupled CMS Separates IT and Front-end</span> IT can do their thing independantly, with java or whatever they see fit. Meanwhile the Front-end (the web team) can uses whatever they want without asking anything from the IT (the back-end). IT just needs to create an API that the web team can call.</p>
@@ -70,13 +76,13 @@ let opened=''
 
 <p class="mt-2">IT can keep using java to create an API or they can switch to Go, doesn't matter to the web team</p>
 
-<p class="mt-2">Of all front-end frameworks that can be used (react, angular, vue, svelte) Sveltekit is probably the best option as it's the rising star and the one that Lionel would not struggle with learning (while he would suffer with React & friends, Svelte is very close to original html and vanilla js).</p>
+<p class="mt-2">Of all front-end frameworks that can be used (react, angular, vue, svelte) Sveltekit is probably the best option (Emilie's opinion) as it's the rising star and the one that Lionel would not struggle with learning (while he would suffer with React & friends, Svelte is very close to original html and vanilla js and is considered to be the most dev friendly environment).</p>
 
-<p class="mt-2">Storybook for component/design system</p>
+<p class="mt-2">Storybook probably for component/design system</p>
 
 <p class="mt-2">Some testing implemented. Jest? Playwright?</p>
 
-<p class="mt-2">Component first css with tailwind?</p>
+<p class="mt-2">Component first approach to css</p>
 
 
   <h5 class="question font-bold mb-2 mt-12">A concrete example with the pledgers page</h5>
@@ -84,17 +90,18 @@ let opened=''
   <ul class="mb-4">
     <li>Design</li>
     <li>Creating the component in wood</li>
-    <li>Making the component hyper future proof</li>
-    <li>Publishing the component (with the IT involved)</li>
+    <li>Making the component hyper future proof (that's a tough one and an extra layer of rigidity)</li>
+    <li>Creating the component in java (cry of horror)</li>
+    <li>Publishing the component (with the IT involved - with the actually fear that things will break down)</li>
     <li>Creating the page with preexisting block in jahia</li>
     <li>Adding each pledge via jahia's interface</li>
-    <li>No possibility to easily edit the structure/looks of the quotebox</li>
+    <li>No possibility to easily edit the structure/looks of the quotebox once it's done</li>
   </ul>
 
   <ul class="mb-4">
     <li>Design</li>
-    <li>Creating the component in storybook with testing</li>
-    <li>Adding the component in Sveltekit</li>
+    <li>Creating the component in storybook with testing (proper testing)</li>
+    <li>Adding the component in Sveltekit (joyfully copy pasting from storybook)</li>
     <li>Creating the page however we want with total control</li>
     <li>Adding each pledge either via netlify cms for editors (something very simple with just fiels to fill in) or via code</li>
     <li>Easily edit/add/delete the structure/looks of the quotebox at any point in any way</li>
