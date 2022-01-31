@@ -74,7 +74,7 @@ let opened=''
 
 <h5 class="question font-bold mb-2 mt-12">Stacks for isoorg</h5>
 
-<p class="mt-2">IT can keep using java to create an API or they can switch to Go, doesn't matter to the web team</p>
+<p class="mt-2">IT can keep using java to create an API or they can switch to Go, total freedom</p>
 
 <p class="mt-2">Of all front-end frameworks that can be used (react, angular, vue, svelte) Sveltekit is probably the best option (Emilie's opinion) as it's the rising star and the one that Lionel would not struggle with learning (while he would suffer with React & friends, Svelte is very close to original html and vanilla js and is considered to be the most dev friendly environment).</p>
 

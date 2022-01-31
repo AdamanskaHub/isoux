@@ -240,6 +240,32 @@ let opened=''
 </div>
 
 
+<!-- FERNEY -->
+<div class="mt-8 mb-8">
+  <h5 class="question font-bold mb-2 ">Ferney</h5>
+
+  <p class="opacity-50 mb-1">Uses uses .org a few times weekly.</p>
+  <ul class="ml-8">
+    <li>Gathers information and shares it</li>
+    <li>Needs to know about certain TC statuses</li>
+    <li>Types "iso" in google</li>
+    <li>Likes the presentations available but can't find them</li>
+    <li>Wants more videos</li>
+    <li>Wants infographics</li>
+    <li>Reads some news</li>
+    <li>Would like to "watch" some standards to be informed of modifications</li>
+  </ul>
+
+  <p class="mt-2"><span class="font-bold">Problem flow (there's no problem actually): </span>She's looking for a standard => from iso.org she types the number of the standard in the search bar => she clicks the first link => the standard opens in the store and she can see the different information she needs.</p>
+
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>Watch/follow standard</li>
+    <li>Easier to find documents</li>
+  </ul>
+</div>
+
+
 
 
 </div>
