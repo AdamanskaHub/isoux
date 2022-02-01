@@ -1,5 +1,5 @@
 <script>
-import Carret from "../../.., is_crossorigin/static/carret.svelte"
+import Carret from "../../../static/carret.svelte"
 let opened=''
 </script>
 
