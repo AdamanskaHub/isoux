@@ -15,6 +15,7 @@
     {title:'Introduction', path:'/'},
     {title:'Brainstorms', path:'/brainstorms'},
     {title:'UX Interviews', path:'/uxinterviews'},
+    {title:'UX Thoughts', path:'/uxthoughts'},
     {title:'Others', path:'/others'},
   ]
 
