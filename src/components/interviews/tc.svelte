@@ -71,6 +71,51 @@ let opened=''
     <li>Better committee.iso.org</li>
   </ul>
 
+  <!-- Martin -->
+
+  <h5 class="question font-bold mb-2">Martin</h5>
+
+  <p class="opacity-50 mb-1">TC Chairman goes on iso.org 1x/month, portal few times a week, obp rarely.</p>
+  <ul class="ml-8">
+    <li>Checks the ISO list of technical committee</li>
+    <li>Looks for contact info rarely</li>
+    <li>Checks out meetings and docs and ballots regularly</li>
+    <li>Feels a bit spammed by emails because he's in many committee</li>
+    <li>Gets lots of notifications</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> From bookmarks => committee.iso.org => list of committee. </p>
+  <p></p>
+  
+  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <ul>
+    <li>Grouping emails together daily or every other days with a recap</li>
+  </ul>
+
+  <!-- PHILIP -->
+
+  <h5 class="question font-bold mb-2">Philip</h5>
+
+  <p class="opacity-50 mb-1">TC Chairman, works at BP, goes on iso.org rarely, portal few times a week.</p>
+  <ul class="ml-8">
+    <li>Checks the ISO list of technical committee</li>
+    <li>Looks for contact info rarely</li>
+    <li>Checks out meetings and docs and ballots regularly</li>
+    <li>Feels a bit spammed by emails because he's in many committee</li>
+    <li>Gets lots of notifications</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>Secretary creates a meeting => Philip receives email => He wants to add it to his outlook calendar and he wants alerts</p>
+  <p>A month before he'd like a reminder and a link in the reminder email to register if not done yet</p>
+  <p>He wants a zoom link in the email and to be added to his outlook too (might as well)</p>
+  <p>The way pdfs of standards are edited/discussed/annoted is currently very old school: emails back and forth, editing in word all in separate docs and more middle ages things. On average you'll have 30 contributors, a max of 10 being really active. It would be great to have a <a href="https://www.annotate.com">system</a> to enable users to annotate, share and discuss in a more efficient (way more efficient and time saving) way. (I discuss a lot with him about what would be best and it's quite doable what he needs - the tech exists)</p>
+  
+  <p class="mt-2"><span class="font-bold">Quick wins: </span></p>
+  <ul>
+    <li>Grouping emails together daily or every other days with a recap</li>
+    <li>Adding meetings to his outlook calendar from the email notif he gets</li>
+  </ul>
+
 
 
 
