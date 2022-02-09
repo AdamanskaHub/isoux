@@ -81,7 +81,7 @@
     color: #d33a2c;
   }
 
-  .active-link{
+  :global(.active-link){
     color: #d33a2c;
     text-decoration: underline;
   }
@@ -199,6 +199,5 @@
 :global(.other-ideas) {
   margin-bottom: 4rem;
 }
-
 
 </style>
