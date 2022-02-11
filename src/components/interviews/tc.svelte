@@ -53,7 +53,7 @@ let opened=''
 
     <!-- NIGEL -->
 
-  <h5 class="question font-bold mb-2">Nigel</h5>
+  <h5 class="question font-bold mb-2 ">Nigel</h5>
 
   <p class="opacity-50 mb-1">TC Chairman goes on iso.org twice a week, and from there to OBP.</p>
   <ul class="ml-8">
@@ -65,7 +65,7 @@ let opened=''
   <p class="mt-2 mb-8"><span class="font-bold">Problem flow:</span> He goes to iso.org => about us => standards => map => finds the country and clicks on it</p>
   <p>Taking parts => dev standards => TC link => list of TCs => clicks the correct TC => finds info on the page => clicks preview => goes to OBP and read the info </p>
   
-  <p class="mt-2"><span class="font-bold">Quick wins:</span></p>
+  <p class="mt-2 "><span class="font-bold">Quick wins:</span></p>
   <ul>
     <li>TC (in the store page) is not a link but an internal tab (see video)</li>
     <li>Better committee.iso.org</li>
@@ -73,7 +73,7 @@ let opened=''
 
   <!-- Martin -->
 
-  <h5 class="question font-bold mb-2">Martin</h5>
+  <h5 class="question font-bold mb-2 mt-8">Martin</h5>
 
   <p class="opacity-50 mb-1">TC Chairman goes on iso.org 1x/month, portal few times a week, obp rarely.</p>
   <ul class="ml-8">
@@ -94,7 +94,7 @@ let opened=''
 
   <!-- PHILIP -->
 
-  <h5 class="question font-bold mb-2">Philip</h5>
+  <h5 class="question font-bold mb-2 mt-8">Philip</h5>
 
   <p class="opacity-50 mb-1">TC Chairman, works at BP, goes on iso.org rarely, portal few times a week.</p>
   <ul class="ml-8">
@@ -118,7 +118,7 @@ let opened=''
 
   <!-- PHILIP 2 -->
 
-  <h5 class="question font-bold mb-2">Philip2</h5>
+  <h5 class="question font-bold mb-2 mt-8">Philip2</h5>
 
   <p class="opacity-50 mb-1">TC Chairman jtc1, goes on iso.org rarely, portal few times a week.</p>
   <ul class="ml-8">
@@ -143,7 +143,7 @@ let opened=''
 
   <!-- JASON -->
 
-  <h5 class="question font-bold mb-2">Jason</h5>
+  <h5 class="question font-bold mb-2 mt-8">Jason</h5>
 
   <p class="opacity-50 mb-1">TC Chairman, goes on iso.org rarely, portal most days, obp often.</p>
   <ul class="ml-8">
