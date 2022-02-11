@@ -116,6 +116,55 @@ let opened=''
     <li>Adding meetings to his outlook calendar from the email notif he gets</li>
   </ul>
 
+  <!-- PHILIP 2 -->
+
+  <h5 class="question font-bold mb-2">Philip2</h5>
+
+  <p class="opacity-50 mb-1">TC Chairman jtc1, goes on iso.org rarely, portal few times a week.</p>
+  <ul class="ml-8">
+    <li>Looks for contact info rarely</li>
+    <li>Checks out meetings and docs and ballots regularly</li>
+    <li>He's in many committee</li>
+    <li>Gets lots of notifications</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>He wants the docs from a reference from people with N number => will do an advanced search => opens doc => checks out the scope.</p>
+  <p>He wants to find the people of a TC he's not part of = googles iso tc304 => click the iso.org link => on that page there's the email but not of the chair which is the one he wanted, he's frustrated.</p>
+  
+  
+  <p class="mt-2"><span class="font-bold">Quick wins: </span></p>
+  <ul>
+    <li>In docs it should be possible to see limited info (particularly contact) about any tc, even those we're not part of (in committee structure)</li>
+    <li>He'd love a compact view for the results to scan more efficiently</li>
+    <li>Possibility to filter his meetings per subcommittee (relevant for other users too)</li>
+    <li>He should be able to see the status of meetings (accepted, pending etc)</li>
+    <li>He should be able to see a list of his accepted meetings</li>
+  </ul>
+
+  <!-- JASON -->
+
+  <h5 class="question font-bold mb-2">Jason</h5>
+
+  <p class="opacity-50 mb-1">TC Chairman, goes on iso.org rarely, portal most days, obp often.</p>
+  <ul class="ml-8">
+    <li>Looks for contact info rarely</li>
+    <li>Checks out meetings and docs and ballots regularly</li>
+    <li>He's in many committee</li>
+    <li>Gets over 30 emails per week but fine with that</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>He wants to navigate between the different workspaces of the portal smoothly (even has a mockup of how it could be) => From the meeting he wants to access the docs mentionned or about the meetings.</p>
+  <p>He wants to see (meetings) the time for his time zone (poor man is in Australia, has to convert everything, misses meetings and it's so easy technically)</p>
+  
+  
+  <p class="mt-2"><span class="font-bold">Quick wins: </span></p>
+  <ul>
+    <li>Wants an editable doc to collaborate with others (like Philip wants)</li>
+    <li>Longer time loaded</li>
+    <li>Wants the workspace to have real time updates</li>
+    <li>He should be able to see a list of his accepted meetings etc</li>
+  </ul>
+
 
 
 
