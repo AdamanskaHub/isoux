@@ -165,6 +165,30 @@ let opened=''
     <li>He should be able to see a list of his accepted meetings etc</li>
   </ul>
 
+  <!-- Anish -->
+
+  <h5 class="question font-bold mb-2 mt-8">Anish</h5>
+
+  <p class="opacity-50 mb-1">TC Chairman, doesn't go on iso.org, portal most days.</p>
+  <ul class="ml-8">
+    <li>Is an editor</li>
+    <li>Said he was frustrated with the UX</li>
+    <li>Struggles a lot with the meetings</li>
+    <li>Mostly fine with the docs</li>
+    <li>Really wants calendars connections</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>He needs to register for a meeting. Goes to meetings => searches for sc 58 => open meeting he found => registers => has a lot of clicks to validates => click go back (which is something you gotta know, 0% intuitive) => can click add calendar => an ics is downloaded => he launches it and fiiiiinally it's on his calendar</p>
+  
+  <p class="mt-2"><span class="font-bold">Quick wins: </span></p>
+  <ul>
+    <li>My committee box should be min height of 100vh (checkout the video)</li>
+    <li>Should by default see all committee (not first one to request that)</li>
+    <li>Loading is weird (checkout vid)</li>
+    <li>When he uploads a doc he would want to immediately and simply be able to add a notification with it</li>
+    <li>Would like a way/place to discuss documents (basically notion is what they need, checkout the video). He wants a way (simple and clear and fast) to make a progress between meetings electronically</li>
+  </ul>
+
 
 
 

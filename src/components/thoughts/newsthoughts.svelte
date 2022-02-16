@@ -15,7 +15,13 @@ let opened=''
   <p class="opacity-50 mr-4 mb-8">
   The news get little views but lots of efforts are poured into them. They are good old plain text with generic images in a world of tiktiok, videos, low span of attention and extreme competitivity for people's eyeballs.
   <br>
-  It might be better to altogether get rid of them, except that they help the website rank well.
+  109,131 news view 1.92% of Total views of 5,689,410 (mid jan to mid feb 2022).
+  <br/>
+  Average time on page 2min. If we consider an average of 8 articles/month, an average of 400 views/articles, and 10h/articles, it means 1h of work gives us 80min of reading time. 
+  <br/>
+  Bounce is 75%, meaning 75% of the people are going on a news directly and will not go anywhere else and will leave. 
+  <br/>
+  It might be better to altogether get rid of them, except if they help the website rank well maybe.
   <br>
   However, the energy used for the news could be used in a more efficient way. 
   <br>
