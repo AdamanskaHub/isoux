@@ -189,6 +189,32 @@ let opened=''
     <li>Would like a way/place to discuss documents (basically notion is what they need, checkout the video). He wants a way (simple and clear and fast) to make a progress between meetings electronically</li>
   </ul>
 
+  <!-- GARY -->
+
+  <h5 class="question font-bold mb-2 mt-8">Gary</h5>
+
+  <p class="opacity-50 mb-1">TC Chairman, doesn't go on iso.org, portal most days.</p>
+  <ul class="ml-8">
+    <li>He has a lot of documents to manage</li>
+    <li>Very concerned about versioning</li>
+    <li>Simply cannot do his work on docs platform and works outside on other platforms</li>
+    <li>Collaborates a lot on documents</li>
+    <li>Suffers from lack of permission management</li>
+    <li>Has a very busy calendar</li>
+    <li>He finds the website too slow</li>
+    <li>He hates pdf cause you can't edit them</li>
+    <li>Has a lot of workaround for everything because the whole iso platform is just wrong for him but he's still forced to used it in part</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>He doesn't have one really in ISO or it's so big that it's everything.</p>
+  
+  <p class="mt-2"><span class="font-bold">Quick wins: </span></p>
+  <ul>
+    <li>Give him a collaborative space for documents</li>
+    <li>He needs versionning too</li>
+    <li>Have some smart naming for documents so that it makes sense</li>
+  </ul>
+
 
 
 
