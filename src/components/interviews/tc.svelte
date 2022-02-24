@@ -215,6 +215,54 @@ let opened=''
     <li>Have some smart naming for documents so that it makes sense</li>
   </ul>
 
+  <!-- KEITH -->
+
+  <h5 class="question font-bold mb-2 mt-8">Keith</h5>
+
+  <p class="opacity-50 mb-1">Convenor, doesn't go on iso.org, portal everyday days.</p>
+  <ul class="ml-8">
+    <li>Has a customized folders system</li>
+    <li>Has a strong labelling/naming conventions</li>
+    <li>Collaborates a lot on documents</li>
+    <li>Has a very busy calendar</li>
+    <li>Likes an old school mid-90's style of communication</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>Download all the docs => uses an email reflector => discuss with the reflector after the meeting</p>
+  
+  <p class="mt-2"><span class="font-bold">Quick wins: </span></p>
+  <ul>
+    <li>Quick preview & grp pdf+doc</li>
+    <li>Option to dl all easily</li>
+    <li>Wants an email reflector</li>
+    <li>Default ordering should newer first</li>
+    <li>Remove the prefixes to docs name from dl</li>
+    <li>Faster</li>
+  </ul>
+
+  <!-- BILL -->
+
+  <h5 class="question font-bold mb-2 mt-8">Bill</h5>
+
+  <p class="opacity-50 mb-1">Admin of JTC1, doesn't go on iso.org, portal everyday days.</p>
+  <ul class="ml-8">
+    <li>Works outside of ISO on docs</li>
+    <li>Switches quite a bit between different apps</li>
+    <li>Loves the helpdesk</li>
+    <li>Creates meetings</li>
+    <li>Beta friendly</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>Uses meeting as a starting point => clicks top right to navigate to other apps --- Get zip of the results ballots => send doc to some people => post into sub committee after making a collage pdf</p>
+  
+  <p class="mt-2"><span class="font-bold">Quick wins: </span></p>
+  <ul>
+    <li>Possibility to add multiple meetings/day</li>
+    <li>Possibility to attach things to "email to all members"</li>
+    <li>Really needs to copy paste and he can't (check out at the end of the vid)</li>
+    <li>Wants a reflector</li>
+  </ul>
+
 
 
 
