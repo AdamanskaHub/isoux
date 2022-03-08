@@ -56,11 +56,38 @@ let opened=''
     <li>🎥 Team - Select 1 article subject for a bigger article (5min)</li>
     <li>🎥 Team - Select 1 article subject to be a video with someone filmed explaining stuff (5min-ish)</li>
     <li>🎬 Alexane(Emilie) - Buy some video effects online</li>
-    <li>🎬🎬🎬 Alexane(Emilie) - Create each video: short motion, longer motion, </li>
-    <li>🎥 🎥 🎥 Team - Do the interviews!</li>
-    <li>🧪 Web - Have 50% on a non audio page, 50% on the audio page</li>
+    <li>🎬🎬🎬 Alexane(Emilie) - Create each video: short motion, longer motion, slightly motionned interview</li>
+    <li>🧪 Emilie - Test video content on random users</li>
+    <li>🧪 Emilie - Test video content on experts</li>
+    <li>🎥 Web - Put the videos online, A/B testing them</li>
     <li>🧪 Luigi or Emilie - Measure impact and report to Content team</li>
     <li>🎠 Team - Adjust and here we go again</li>
+  </ul>
+
+  <h5 class="question font-bold mb-2">Content - 📊 infographics</h5>
+  
+  <p class="mt-2">Actual tests</p>
+
+  <ul class="list-disc mt-2 mb-2">
+    <li>📊 Team - Select 1 article subject for an infographics attack</li>
+    <li>📊 Team - Create content as text</li>
+    <li>📊 Alexane (emilie) - Create content as infographics</li>
+    <li>📊 Web - Put the videos online, A/B testing them</li>
+    <li>🧪 Luigi or Emilie - Measure impact and report to Content team</li>
+    <li>🎠 Team - Adjust and here we go again</li>
+    <li>🧪 Can be tested with animated infographics if it works out.</li>
+  </ul>
+
+  <h5 class="question font-bold mb-2">Content - 🏆 Test the tests</h5>
+  
+  <p class="mt-2">What is worth the effort</p>
+
+  <ul class="list-disc mt-2 mb-2">
+    <li>🏆 Team - Compare time spent, how fun it was, how liked the content was, how many views, and decide what's the best</li>
+    <li>🏆 Team - What's to be kept and at which frequency?</li>
+    <li>🏆 Emilie - Create plan to slowly improve the quality of what's improved</li>
+    <li>🧪 Luigi or Emilie - Measure impact every month and report to Content team</li>
+    <li>🎠 the web is ever changing, evolve and adapt, stay in the game.</li>
   </ul>
 
 
