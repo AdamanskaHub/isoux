@@ -9,7 +9,7 @@ let opened=''
   <h4 class="title">Content Actions</h4> 
 </button>
 
-<div class="{opened==='opener'? 'accordion-show':'hidden'}">
+<div class="{opened==='opener'? 'accordion-show':'hidden'} mb-24">
 
 
   <p class="opacity-50 mr-4 mt-2 mb-8">
@@ -18,15 +18,15 @@ let opened=''
   </p>
 
 
-  <h5 class="question font-bold mb-2">What can be done?</h5>
+  <h5 class="question font-bold mb-2 mt-10">What can be done?</h5>
   
   <p>A lot of things can be implemented right now and the testing should start immediately (Q1 2022). Rome wasn't build in a day, especially when Rome has to do through a lot of iterations. A year of testing will see us on the path, but not to the goal.</p>
 
-  <h5 class="question font-bold mb-2">Content - 🎤 audio</h5>
+  <h5 class="question font-bold mb-2 mt-10">Content - 🎤 audio</h5>
   
   <p class="mt-2">UX research</p>
 
-  <ul class="list-disc mt-2 mb-2">
+  <ul class="mt-2 mb-4">
     <li>🕵️‍♀️ Someone - Get together a list of experts to contact</li>
     <li>👩‍🔬 Emilie - Craft and send out survey to those experts</li>
     <li>👩‍🔬 Emilie - Compile results</li>
@@ -35,7 +35,7 @@ let opened=''
 
   <p class="mt-2">Actual tests</p>
 
-  <ul class="list-disc mt-2 mb-2">
+  <ul class="mt-2 mb-4">
     <li>🎤 Team - Select 1 interview subject for a short interview (5-10min)</li>
     <li>🎤 Team - Select 1 interview subject for an in-depth interview (5-10min)</li>
     <li>🎤 Team - Select 1 article subject to be read (5min-ish)</li>
@@ -46,11 +46,11 @@ let opened=''
     <li>🎠 Team - Adjust and here we go again</li>
   </ul>
 
-  <h5 class="question font-bold mb-2">Content - 🎥 video</h5>
+  <h5 class="question font-bold mb-2 mt-10">Content - 🎥 video</h5>
   
   <p class="mt-2">Actual tests</p>
 
-  <ul class="list-disc mt-2 mb-2">
+  <ul class="mt-2 mb-4">
     <li>🎥 Team - Discuss subjects for videos (according to data and feasibility)</li>
     <li>🎥 Team - Select 1 article subject for a short video (1min-ish)</li>
     <li>🎥 Team - Select 1 article subject for a bigger article (5min)</li>
@@ -64,11 +64,11 @@ let opened=''
     <li>🎠 Team - Adjust and here we go again</li>
   </ul>
 
-  <h5 class="question font-bold mb-2">Content - 📊 infographics</h5>
+  <h5 class="question font-bold mb-2 mt-10">Content - 📊 infographics</h5>
   
   <p class="mt-2">Actual tests</p>
 
-  <ul class="list-disc mt-2 mb-2">
+  <ul class="mt-2 mb-4">
     <li>📊 Team - Select 1 article subject for an infographics attack</li>
     <li>📊 Team - Create content as text</li>
     <li>📊 Alexane (emilie) - Create content as infographics</li>
@@ -78,11 +78,11 @@ let opened=''
     <li>🧪 Can be tested with animated infographics if it works out.</li>
   </ul>
 
-  <h5 class="question font-bold mb-2">Content - 🏆 Test the tests</h5>
+  <h5 class="question font-bold mb-2 mt-10">Content - 🏆 Test the tests</h5>
   
   <p class="mt-2">What is worth the effort</p>
 
-  <ul class="list-disc mt-2 mb-2">
+  <ul class="mt-2 mb-4">
     <li>🏆 Team - Compare time spent, how fun it was, how liked the content was, how many views, and decide what's the best</li>
     <li>🏆 Team - What's to be kept and at which frequency?</li>
     <li>🏆 Emilie - Create plan to slowly improve the quality of what's improved</li>

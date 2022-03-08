@@ -1,6 +1,7 @@
 <script>
   import Casco from "../components/interviews/casco.svelte"
   import TC from "../components/interviews/tc.svelte"
+  import Mktg from "../components/interviews/mktg.svelte"
 </script>
 
 <h2 class="big-title mb-4">UX interviews</h2>
@@ -9,3 +10,4 @@
 
 <Casco/>
 <TC/>
+<Mktg />

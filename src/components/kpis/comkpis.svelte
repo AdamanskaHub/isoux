@@ -9,7 +9,7 @@ let opened=''
   <h4 class="title">Content KPIs</h4> 
 </button>
 
-<div class="{opened==='opener'? 'accordion-show':'hidden'}">
+<div class="{opened==='opener'? 'accordion-show':'hidden'} mb-24">
 
 
   <p class="opacity-50 mr-4 mb-8">
