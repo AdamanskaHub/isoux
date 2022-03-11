@@ -264,6 +264,53 @@ let opened=''
   </ul>
 
 
+  <!-- KHALID -->
+
+  <h5 class="question font-bold mb-2 mt-8">Khalid</h5>
+
+  <p class="opacity-50 mb-1">SC35 president, doesn't go on iso.org, portal from time to time</p>
+  <ul class="ml-8">
+    <li>Actually said he was unhappy with the platform without me even asking</li>
+    <li>Wants one source of truth</li>
+    <li>Doesn't want to go through afnor</li>
+    <li>the portal is not at all beginner friendly</li>
+    <li>Looks for docs and shares them</li>
+    <li>Would want to be able to edit the docs</li>
+    <li>Wants to simply see his sc35 upcoming meetings</li>
+    <li>Thinks he should have access to all the WG of SC35</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>He's looking for the committee structure =>types in google sc35 working area => logs in via afnor => 403 permission denied => refreshes => searches parent grp but can't find it in my committees => clicks randomly, literally => clicks "general" => finds the committee structure</p>
+  
+  <p class="mt-2"><span class="font-bold">Wins: </span></p>
+  <ul>
+    <li>Have an onboarding tutorial</li>
+    <li>Make docs editable cause they are many wanting that and it just pushes them outside the platform</li>
+    <li>Have a simple view for those users who do just basic things</li>
+  </ul>
+
+
+  <!-- DAVID -->
+
+  <h5 class="question font-bold mb-2 mt-8">David</h5>
+
+  <p class="opacity-50 mb-1">Chair JTC SC22 & convenor, doesn't go on iso.org, meetings .5x/w, projects .25x/w, docs 1x/w</p>
+  <ul class="ml-8">
+    <li>Please watch the video</li>
+  </ul>
+
+  <p class="mt-2 mb-8"><span class="font-bold">Problem flow: </span>Asks for an N# by email to put it into the system => portal => docs => fumbles => finds the right folder => creates N# => sends it to appropriate people => people edit with # and send back => they upload</p>
+  
+  <p class="mt-2"><span class="font-bold">Wins: </span></p>
+  <ul>
+    <li>Wants to make some docs totally public with possibility to comment at the bottom</li>
+    <li>Wants to have a clear url with just the N# (check out the video towards the end)</li>
+    <li>Week long meeting, no time limit (watch his flow at the beginning of the video)</li>
+    <li>Wants a way to modify frequency of alert "you haven't uploaded a doc" (see video)</li>
+    <li>Wants to restore archive (again check out the video)</li>
+  </ul>
+
+
 
 
 </div>

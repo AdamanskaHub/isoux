@@ -44,6 +44,7 @@ let opened=''
     <li>🧪 Web - Have 50% on a non audio page, 50% on the audio page</li>
     <li>🧪 Luigi or Emilie - Measure impact and report to Content team</li>
     <li>🎠 Team - Adjust and here we go again</li>
+    <li>Get some <a href="https://riverside.fm/">pro tools</a> and take it to the next level</li>
   </ul>
 
   <h5 class="question font-bold mb-2 mt-10">Content - 🎥 video</h5>
