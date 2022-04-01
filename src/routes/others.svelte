@@ -10,7 +10,7 @@
 <p class="opacity-50 mb-8">There are a variety of UX tools and methods to gather knowledge and test hypotesis.</p>
 
 <Podcasts/>
-<Personas/>
+<Persona/>
 <FiveSec />
 
 <TechStack />
