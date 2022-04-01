@@ -22,6 +22,7 @@ let opened=''
 <p>Material:</p>
 <ul>
   <li>Audio technica 2100X or Samsung Q2U mic (100$)</li>
+  <li><a href="https://riverside.fm/">Try riverside's free trial</a></li>
 </ul>
 
 <p>Material to take it to the next level with video (later):</p>
