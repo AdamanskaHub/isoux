@@ -6,7 +6,7 @@ let opened=''
 <button class=" flex items-center"
 	on:click="{() => opened==='xxx'? opened=false : opened = 'xxx'}" aria-expanded={opened==='xxx'} >
   <Carret />
-  <h4 class="title">5sec test<span> (12/21)</span></h4> 
+  <h4 class="title">Podcast prep<span> (04/22)</span></h4> 
 </button>
 
 <div class="{opened==='xxx'? 'accordion-show':'hidden'}">
