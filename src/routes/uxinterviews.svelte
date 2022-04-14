@@ -3,6 +3,7 @@
   import TC from "../components/interviews/tc.svelte"
   import Mktg from "../components/interviews/mktg.svelte"
   import WebsiteRandom from "../components/interviews/websiteRandom.svelte"
+  import Novices from "../components/interviews/novices.svelte"
 </script>
 
 <h2 class="big-title mb-4">UX interviews</h2>
@@ -13,3 +14,4 @@
 <TC/>
 <Mktg />
 <WebsiteRandom />
+<Novices />
