@@ -43,7 +43,25 @@ let opened=''
     <li>Would like to know what other companies enjoyed or not about the process of applying a std</li>
   </ul>
 
-  
+
+  <!-- Dannely -->
+
+  <h5 class="question font-bold mb-2">Dannely</h5>
+
+  <p class="opacity-50 mb-1">Sustainability manager with little knowledge of std (new job)</p>
+  <p class="font-bold">JTBD: Finding general information, see which are the best std for what she's trying to do</p>
+  <ul class="ml-8">
+    <li>Started by looking for a specific std so straight to the search for 29000</li>
+    <li>Wants key points benefits</li>
+    <li>Wants video of the highlights</li>
+    <li>Found the website confusing</li>
+    <li>Wants to search by keywords</li>
+    <li>Wants case studies</li>
+    <li>Wants an overview of std by domain/topic; Page per topic</li>
+    <li>Wants things to be more visual</li>
+    <li>Wants to see prices in her currency</li>
+  </ul>
+
 
 
 
