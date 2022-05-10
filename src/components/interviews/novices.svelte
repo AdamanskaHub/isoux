@@ -62,6 +62,23 @@ let opened=''
     <li>Wants to see prices in her currency</li>
   </ul>
 
+  <!-- Murat -->
+
+  <h5 class="question font-bold mb-2">Murat</h5>
+
+  <p class="opacity-50 mb-1">CEO of a software company who learned about standards at uni</p>
+  <p class="font-bold">JTBD: Buying a standard</p>
+  <ul class="ml-8">
+    <li>Typed ISO and # on google -> home page -> search -> std page -> life cycle -> buy</li>
+    <li>Wants pics and infographics to help with the understanding of the std</li>
+    <li>Found all the "vacation pictures" confusing, less photos on the website</li>
+    <li>Would like a "follow" on standards</li>
+    <li>Wants video on how to use standards, not super technical</li>
+    <li>Wants to see related standards and standards per topics, sometimes you don't know what's available, what the # is
+    </li>
+    <li>Wants to see benefits of standards</li>
+  </ul>
+
 
 
 
