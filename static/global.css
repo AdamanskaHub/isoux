@@ -112,3 +112,6 @@ h5.sub-title{
   margin-bottom: 4rem;
 }
 
+ul li {
+  list-style:square;
+}
