@@ -32,7 +32,7 @@ let opened=''
 
   <p class="opacity-50 mb-1">Business consultant with some knowledge of standards. Said that 70% of what the 9001 does is what she does in her job. </p>
   <p class="font-bold">JTBD: Find a certification for lead auditor (who can certify her)</p>
-  <ul class="ml-8">
+  <ul class="ml-8 mb-8">
     <li>Website was easy to navigate</li>
     <li>Had to look at the website of the British bureau of assessment to get the info</li>
     <li>homepage -> std -> get certified</li>
@@ -46,11 +46,11 @@ let opened=''
 
   <!-- Dannely -->
 
-  <h5 class="question font-bold mt-8 mb-8">Dannely</h5>
+  <h5 class="question font-bold mt-8">Dannely</h5>
 
   <p class="opacity-50 mb-1">Sustainability manager with little knowledge of std (new job)</p>
   <p class="font-bold">JTBD: Finding general information, see which are the best std for what she's trying to do</p>
-  <ul class="ml-8">
+  <ul class="ml-8 mb-8">
     <li>Started by looking for a specific std so straight to the search for 29000</li>
     <li>Wants key points benefits</li>
     <li>Wants video of the highlights</li>
@@ -64,11 +64,11 @@ let opened=''
 
   <!-- Murat -->
 
-  <h5 class="question font-bold mt-8 mb-8">Murat</h5>
+  <h5 class="question font-bold mt-8 ">Murat</h5>
 
   <p class="opacity-50 mb-1">CEO of a software company who learned about standards at uni</p>
   <p class="font-bold">JTBD: Buying a standard</p>
-  <ul class="ml-8">
+  <ul class="ml-8 mb-8">
     <li>Typed ISO and # on google -> home page -> search -> std page -> life cycle -> buy</li>
     <li>Wants pics and infographics to help with the understanding of the std</li>
     <li>Found all the "vacation pictures" confusing, less photos on the website</li>
