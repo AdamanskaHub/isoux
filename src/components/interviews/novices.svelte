@@ -28,7 +28,7 @@ let opened=''
 
   <!-- FIONA -->
 
-  <h5 class="question font-bold mb-2">Fiona</h5>
+  <h5 class="question font-bold mt-8 mb-8">Fiona</h5>
 
   <p class="opacity-50 mb-1">Business consultant with some knowledge of standards. Said that 70% of what the 9001 does is what she does in her job. </p>
   <p class="font-bold">JTBD: Find a certification for lead auditor (who can certify her)</p>
@@ -46,7 +46,7 @@ let opened=''
 
   <!-- Dannely -->
 
-  <h5 class="question font-bold mb-2">Dannely</h5>
+  <h5 class="question font-bold mt-8 mb-8">Dannely</h5>
 
   <p class="opacity-50 mb-1">Sustainability manager with little knowledge of std (new job)</p>
   <p class="font-bold">JTBD: Finding general information, see which are the best std for what she's trying to do</p>
@@ -64,7 +64,7 @@ let opened=''
 
   <!-- Murat -->
 
-  <h5 class="question font-bold mb-2">Murat</h5>
+  <h5 class="question font-bold mt-8 mb-8">Murat</h5>
 
   <p class="opacity-50 mb-1">CEO of a software company who learned about standards at uni</p>
   <p class="font-bold">JTBD: Buying a standard</p>

@@ -65,6 +65,32 @@ let opened=''
     <li>Quick 5min intro videos to explain what's ISO about</li>
   </ul>
 
+  <!-- Nadia -->
+
+  <h5 class="question font-bold mb-2 mt-8">Nadia</h5>
+
+  <p class="opacity-50 mb-1">Service info of Morocco, goes often to .org and regularly to iso connect, very used to the website</p>
+  <ul class="ml-8">
+    <li>She tries to confirm statuses and checks prices</li>
+    <li>She copies news for her own newsletter</li>
+    <li>She said herself that she was not able to evaluate the quality of a news</li>
+    <li>She wants more short texts</li>
+    <li>She wants more little tools (like the webstore)</li>
+    <li>She wants more comm material to share to explain std and such</li>
+    <li>She wishes there were online little trainings people in her company could take to learn about advocating for standards and more general standard knowledge</li>
+    <li>Finds the website confusing (who doesn't)</li>
+    <li>Wants to call an API to get info from ISO</li>
+    <li>Needs an option to follow pages/topics</li>
+    <li>Wants to see the full article in article notification she receives</li>
+    <li>She's confused about the different newsletters and would like to be able to subscribe to everything (crazy but ok)</li>
+  </ul>
+  
+  <p class="mt-2"><span class="font-bold">Quick (or not so) wins: </span></p>
+  <ul>
+    <li>Place to download lots of comm material for her and her team to use (would help many)</li>
+    <li>Give her the whole article in the notification</li>
+    <li>Have a page with the all the norms and their prices, with a filter system (would help many)</li>
+  </ul>
 
 
 
