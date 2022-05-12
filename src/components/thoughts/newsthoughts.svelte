@@ -3,6 +3,9 @@ import Carret from "../../../static/carret.svelte"
 let opened=''
 
 </script>
+
+<h4 class="title">Thoughts about news</h4> 
+
 <button class=" flex items-center"
 	on:click="{() => opened==='news'? opened=false : opened = 'news'}" aria-expanded={opened==='news'} >
   <Carret />
