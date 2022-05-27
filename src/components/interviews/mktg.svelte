@@ -92,6 +92,23 @@ let opened=''
     <li>Have a page with the all the norms and their prices, with a filter system (would help many)</li>
   </ul>
 
+  <!-- Kevin -->
+
+  <h5 class="question font-bold mb-2 mt-8">Kevin</h5>
+
+  <p class="opacity-50 mb-1">Works at DIN in comm, rarely on .org</p>
+  <ul class="ml-8">
+    <li>DIN has a similar distribution of experts vs novices but less radical (25% on extremes)</li>
+    <li>They have a newsletter quaterly with the top 5/7 hot topics</li>
+    <li>They create videos for best practices and benefits as it's very requested</li>
+    <li>Everyday life std are more popular than other topics. Still DIN sticks to their subjects</li>
+    <li>DIN goes a long way to care for experts and attracting them</li>
+    <li>They use confluence as their tool for experts</li>
+    <li>He confirmed the importance of topics for users, already implemented at DIN</li>
+    <li>Uses linkedin a lot and corporate influencers</li>
+    <li>They are looking into youtube influencers</li>
+  </ul>
+
 
 
 </div>
