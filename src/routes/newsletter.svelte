@@ -7,13 +7,18 @@
     text-decoration: underline;
   }
   .block{
-    background-color: #e3e3e3;
+    background-color: #f4f4f4;
     padding: 10px;
     margin: 10px 0;
   }
   .result{
-    text-align: center;
     color: var(--red);
+  }
+  .result:before{
+    height: 100%;
+    width: 4px;
+    background-color: var(--red);
+    margin-right: 4px;
   }
 </style>
 
