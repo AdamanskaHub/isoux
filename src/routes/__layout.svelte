@@ -16,6 +16,7 @@
     {title:'Brainstorms', path:'/brainstorms'},
     {title:'UX Interviews', path:'/uxinterviews'},
     {title:'UX Thoughts', path:'/uxthoughts'},
+    {title:'Website progress', path:'/website'},
     {title:'KPIs & Actions', path:'/kpis'},
     {title:'Others', path:'/others'},
   ]
