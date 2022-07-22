@@ -7,8 +7,7 @@ function chose () {
 	chosen= Math.floor(Math.random() * people.length);
 } 
 </script>
-
-<button on:click={chose}>Pick someone from comm</button>
+<button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full" on:click={chose}>Pick someone from comm</button>
 
 {#if chosen!="" }
 <p>{people[chosen]} is the chosen one</p>

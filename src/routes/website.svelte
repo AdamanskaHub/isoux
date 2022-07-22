@@ -5,7 +5,7 @@
 
 <style>
   .bargrey{height:20px;width:80%;max-width: 300px;background-color: darkgray;margin-bottom: 20px;}
-  .bargreen{height:40px; background-color: green;}
+  .bargreen{height:20px; background-color: green;}
   h3{font-size: 1.5rem;margin-bottom: 10px;}
 </style>
 
