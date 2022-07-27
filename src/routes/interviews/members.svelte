@@ -24,7 +24,7 @@
   <!-- Marcel -->
   <h5 class="question font-bold mb-2">Marcel</h5>
   <p class="opacity-50 mb-1">TMB member, committee manager</p>
-  <ul class="ml-8">
+  <ul class="ml-8 mb-2">
     <li>Would give podcast feedback</li>
     <li>Visits .org everyday</li>
     <li>Checks std pages of his portfolio to see the statuses</li>
@@ -39,7 +39,7 @@
   <!-- Paola/Gianluca -->
   <h5 class="question font-bold mb-2">Paola/Gianluca</h5>
   <p class="opacity-50 mb-1">Head of relations/tech officer TC secretary</p>
-  <ul class="ml-8">
+  <ul class="ml-8 mb-2">
     <p class="opacity-50">Paola</p>
     <li>Would give mockups feedback</li>
     <li>Looks for general info&links</li>
@@ -58,7 +58,7 @@
   <!-- Pascale -->
   <h5 class="question font-bold mb-2">Pascale</h5>
   <p class="opacity-50 mb-1">Int relations/speciality gender</p>
-  <ul class="ml-8">
+  <ul class="ml-8 mb-2">
     <li>On .org 2x/w</li>
     <li>Navigates with google</li>
     <li>Usually looks for TC info, confirmation, sends links</li>
