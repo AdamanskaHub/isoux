@@ -12,8 +12,8 @@ function chose () {
 {#if chosen!="" }
 <p>{people[chosen]} is the chosen one</p>
 {/if}
-{#if chosen=="Lionel"  }
+{#if chosen==9  }
 <p>Sorry...</p>
-{:else if chosen=="Emilie"  }
+{:else if chosen==1  }
 <p>😎</p>
 {/if}
