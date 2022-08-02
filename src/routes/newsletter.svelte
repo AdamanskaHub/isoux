@@ -38,7 +38,7 @@
   <h5>Test 2 - details</h5>
   <p>more details/description under the titles</p>
   <p class="result">
-    
+    Slight win for less details - will need retest
   </p>
 </div>
 
