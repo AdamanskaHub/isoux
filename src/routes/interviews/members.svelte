@@ -69,5 +69,20 @@
     <li>Smaller members want ready to publish content</li>
   </ul>
 
+  <!-- Osvaldo -->
+  <h5 class="question font-bold mb-2">Osvaldo</h5>
+  <p class="opacity-50 mb-1">Int relations/President of COPAN</p>
+  <ul class="ml-8 mb-2">
+    <li>On .org daily, it's his homepage!!!!! Also IEC as homepage</li>
+    <li>Navigates with search</li>
+    <li>Usually looks for TC info, stds, governance bodies</li>
+    <li>Searches with keywords, sometimes subjects articles</li>
+    <li>Doesn't like depth of nav and opening new pages, would prefer accordions and the like</li>
+    <li>Likes the news</li>
+    <li>Would like to see the hot topics</li>
+    <li>Agrees to look at prototypes</li>
+  </ul>
+
+
 
 </div>
