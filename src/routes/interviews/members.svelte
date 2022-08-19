@@ -83,6 +83,18 @@
     <li>Agrees to look at prototypes</li>
   </ul>
 
+  <!-- Vered -->
+  <h5 class="question font-bold mb-2">Vered</h5>
+  <p class="opacity-50 mb-1">PR Israel</p>
+  <ul class="ml-8 mb-2">
+    <li>Rarely on the website, gets everything from the news emailing</li>
+    <li>Will read all emails & reuses 50%</li>
+    <li>Chooses those with topics that interest people in her country, like kids and water scarcity</li>
+    <li>Likes podcast</li>
+    <li>Translates everything to Hebrew</li>
+    <li>Likes best short videos, Israel produces many</li>
+  </ul>
+
 
 
 </div>
