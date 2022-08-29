@@ -13,5 +13,6 @@
 <Persona/>
 <FiveSec />
 <a href="/newsletter" class="font-bold"><h3>Newsletter</h3></a>
+<a href="others/podcast-guidelines" class="font-bold"><h3>Podcast Guidelines</h3></a>
 
 <TechStack />
