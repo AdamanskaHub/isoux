@@ -21,6 +21,12 @@ body {
   }
 }
 
+.styled p {
+  margin: 8px 0;
+}
+.styled h2 {margin: 20px 0;}
+.styled h4 {margin: 10px 0;}
+
 .accordion-show {
   display: block;
   animation: reveal .5s
@@ -36,8 +42,16 @@ h2.big-title{
   font-size:48px;
   font-weight: bold;
 }
+h2{
+  font-size:48px;
+  font-weight: bold;
+}
 
 h4.title{
+  font-size: 28px;
+  font-weight: bold;
+}
+h4{
   font-size: 28px;
   font-weight: bold;
 }
