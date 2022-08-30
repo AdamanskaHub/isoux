@@ -1,7 +1,8 @@
 <style>
 
-</style>
 
+</style>
+<div class="styled">
 <h2>Podcast guidelines</h2>
 
 <h4>First off</h4>
@@ -36,3 +37,5 @@
 <p>Adjust your camera so that it is at eye level ideally.</p>
 <p>Smile when you talk. Even if there's no camera.</p>
 <p>Do your best and don't hesitate to ask for help ;) </p>
+
+</div>
