@@ -1,6 +1,18 @@
 <style>
 
-
+p {
+  margin: 8px 0;
+}
+h2 {margin: 20px 0;}
+h4 {margin: 10px 0;}
+h2{
+  font-size:48px;
+  font-weight: bold;
+}
+h4{
+  font-size: 28px;
+  font-weight: bold;
+}
 </style>
 <div class="styled">
 <h2>Podcast guidelines</h2>
